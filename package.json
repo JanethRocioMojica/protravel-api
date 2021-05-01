@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JanethRocioMojica/protravel-api/issues"
   },
-  "homepage": "https://github.com/JanethRocioMojica/protravel-api#readme"
+  "homepage": "https://github.com/JanethRocioMojica/protravel-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
